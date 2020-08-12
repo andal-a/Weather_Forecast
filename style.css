@@ -1,0 +1,22 @@
+.container {
+    margin-top: auto;
+}
+  
+.navbar-title {
+    text-align: center;
+    font-size: 36px;
+    color: white;
+}
+
+.search-header {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.city-name {
+    font-size: 30px;
+}
+
+.forecast-date {
+    font-size: 18px;
+}
